@@ -1,10 +1,7 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-t
-);
-date = "2023-03-18 15:02:31 +0000";
+date = "2023-04-18 14:56:20 +0000";
 familyName = EorzeaEaseMaru;
 fontMaster = (
 {
@@ -2987,5 +2984,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 12;
+versionMinor = 13;
 }
