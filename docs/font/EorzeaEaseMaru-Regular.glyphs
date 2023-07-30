@@ -1,7 +1,7 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-date = "2023-07-30 02:07:59 +0000";
+date = "2023-07-30 02:13:04 +0000";
 familyName = EorzeaEaseMaru;
 fontMaster = (
 {
@@ -5077,7 +5077,7 @@ unicode = 32;
 },
 {
 glyphname = period;
-lastChange = "2023-07-30 01:01:54 +0000";
+lastChange = "2023-07-30 02:12:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -5108,17 +5108,17 @@ fillColor = (0,255);
 };
 closed = 1;
 nodes = (
-(90,68,o),
-(98,60,o),
-(98,50,c),
-(98,40,o),
-(90,32,o),
-(80,32,c),
-(71,32,o),
-(63,40,o),
-(63,50,c),
-(63,60,o),
 (71,68,o),
+(63,60,o),
+(63,50,c),
+(63,40,o),
+(71,32,o),
+(80,32,c),
+(90,32,o),
+(98,40,o),
+(98,50,c),
+(98,60,o),
+(90,68,o),
 (80,68,c)
 );
 }
@@ -5355,5 +5355,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
