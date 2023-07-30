@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="レイヤー5" transform="matrix(0.926347,0,0,0.917378,14.8506,118.573)">
+        <g transform="matrix(1.07951,0,0,1.09006,-16.0313,-129.252)">
+            <ellipse cx="304.747" cy="1535.84" rx="103.117" ry="100.712"/>
+        </g>
+        <g transform="matrix(1.07951,0,0,1.0981,-16.0313,-138.685)">
+            <path d="M408.987,63.464C408.987,63.464 410.706,9.443 358.958,8.59C331.842,8.143 285.356,8.346 255.512,8.59C205.343,8.999 201.557,62.56 201.557,62.56L204.574,1182.34C204.574,1182.34 205.108,1227.79 248.159,1228.25C275.962,1228.55 340.98,1228.28 368.743,1228.28C410.684,1228.27 408.987,1185.18 408.987,1185.18L408.987,63.464Z"/>
+        </g>
+        <g transform="matrix(1.07951,0,0,1.09006,-16.0313,-129.252)">
+            <ellipse cx="305.272" cy="1536.97" rx="103.715" ry="102.287"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="レイヤー6">
+        <g id="レイヤー7">
+            <ellipse cx="408.588" cy="1536.97" rx="103.715" ry="102.287"/>
+            <path d="M0,410.993C0,410.993 1.51,443.145 36.051,442.923C64.798,442.738 140.699,443.658 169.441,443.251C204.993,442.749 205.29,410.711 205.29,410.711C205.29,410.711 206.132,205.878 408.588,206.569C613.89,207.269 613.236,406.604 613.24,410.194C613.673,810.424 311.184,820.116 313.401,1230.04C313.677,1281.1 360.389,1277.12 360.389,1277.12L457.284,1276.9C457.284,1276.9 512.529,1277.37 512.303,1227.9C510.421,816.976 820.522,814.019 823.561,406.501C823.58,403.972 819.273,0.567 409.882,-0.55C2.919,-1.659 0,410.993 0,410.993Z" style="stroke:black;stroke-width:1px;"/>
+        </g>
+    </g>
+</svg>
